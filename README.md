@@ -8,12 +8,10 @@ From CLIP and ViTs to modern VLMs (Llama 3.2 V, Qwen2-VL, InternVL, Pixtral, Gem
 
 | # | Title | Status | Description |
 |---|-------|--------|-------------|
-| 01 | CLIP &amp; Contrastive | in development | CLIP architecture and InfoNCE; OpenCLIP, EVA-CLIP, SigLIP (sigmoid loss); scale curves; zero-shot classification &amp; retrieval; building block for VLMs. |
-| 02 | Vision Transformers | in development | From CNN to ViT, patch embeddings; DeiT, Swin, DINOv2, SAM; patch size and resolution trade-offs; ViT as a VLM image encoder. |
-| 03 | Modern VLMs | in development | Three architectures (Q-Former, Perceiver Resampler, simple projection); Llama 3.2 Vision, Qwen2-VL, InternVL, Pixtral, Gemini, Claude; AnyRes; token budget; eval (MMMU, MathVista, ChartQA, OCRBench). |
-| 04 | Document AI | in development | OCR-then-LLM pipelines vs OCR-free (Donut); ColPali for vision-based retrieval; LayoutLM, UDOP; tables &amp; charts; production patterns. |
-
-> <strong>Status:</strong> sub-hub created with roadmap. Leaf decks land progressively over upcoming sessions.
+| 01 | [CLIP &amp; Contrastive](https://brendanjameslynskey.github.io/VLM_01_CLIP_and_Contrastive/) | live | CLIP architecture and InfoNCE; OpenCLIP, EVA-CLIP, SigLIP (sigmoid loss); scale curves; zero-shot classification &amp; retrieval; building block for VLMs. |
+| 02 | [Vision Transformers](https://brendanjameslynskey.github.io/VLM_02_Vision_Transformers/) | live | From CNN to ViT, patch embeddings; DeiT, Swin, DINOv2, SAM; patch size and resolution trade-offs; ViT as a VLM image encoder. |
+| 03 | [Modern VLMs](https://brendanjameslynskey.github.io/VLM_03_Modern_VLMs/) | live | Three architectures (Q-Former, Perceiver Resampler, simple projection); Llama 3.2 Vision, Qwen2-VL, InternVL, Pixtral, Gemini, Claude; AnyRes; token budget; eval (MMMU, MathVista, ChartQA, OCRBench). |
+| 04 | [Document AI](https://brendanjameslynskey.github.io/VLM_04_Document_AI/) | live | OCR-then-LLM pipelines vs OCR-free (Donut); ColPali for vision-based retrieval; LayoutLM, UDOP; tables &amp; charts; production patterns. |
 
 ## Where this fits
 
