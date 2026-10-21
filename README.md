@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # Vision-Language Models
 
 From CLIP and ViTs to modern VLMs (Llama 3.2 V, Qwen2-VL, InternVL, Pixtral, Gemini, Claude) and the document AI stack (ColPali, Donut).
